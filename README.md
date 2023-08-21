@@ -29,5 +29,6 @@ Phần mô tả về các thư mục cũng như các file mà nhóm đã sử d�
 - Thư mục `comparing_models`: chưa các file `.pkl` chưa các thông tin về các mô hình được huấn luyện.
 - Thư mục `data_preprocessing`: tiền xử lí dữ liệu, rút trích đặc trưng và xử lí cân bằng dữ liệu.
 - Thư mục `models`: chưa các file `.pkl` mô hình đã được nhóm thực hiện huấn luyện.
+- Thư mục `Versions`: chưa các file `.ipynb` code thuật toán XGboost và song song hóa thuật toán XGBoost
 - Tệp `Final_report.ipynb`:  Bản báo cáo của nhóm về đồ án Song song hóa thuật toán XGBoost cùng với đó là phần so sánh thời gian huấn luyện và độ chính xác của các mô hình khác nhau các parameters.
 - Tệp `Proposal.docx`: trình bày về phần tìm hiểu của nhóm trước và sau khi chọn đề tài.
